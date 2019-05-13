@@ -1,24 +1,28 @@
-# README
+# Diagon Alley Adventure
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This adventure based app allows a user to make a profile, get sorted into a Hogwarts House and then roam around Diagon Alley acquiring school supplies. Once they have completed their shopping list, they can board the train to Hogwarts for their first year!
 
-Things you may want to cover:
+You must create/sign into an account to be able to use this website.
 
-* Ruby version
+### Link to Backend
+https://github.com/csamelian27/Diagon_Alley_Frontend
 
-* System dependencies
+## Demo Video
+https://vimeo.com/332568343
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+## Run
+1. Rails db:create
+2. Rails db:migrate
+3. Rails db:seed
 
-* How to run the test suite
+## Built With
+Ruby on Rails (Backend)
 
-* Services (job queues, cache servers, search engines, etc.)
+VanillaJS (Frontend)
 
-* Deployment instructions
+JQuery
 
-* ...
+### Created by
+Cassidy Samelian https://github.com/csamelian27
